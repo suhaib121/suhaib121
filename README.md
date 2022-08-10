@@ -1,3 +1,8 @@
+
+![Metrics](https://metrics.lecoq.io/suhaib121?template=classic&isocalendar=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.display=large)
+
+
+
 <div id = "header" align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaib121)](https://github.com/suhaib121/github-readme-stats)
