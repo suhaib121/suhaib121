@@ -1,4 +1,11 @@
+<div id = "header" align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhaib121)](https://github.com/suhaib121/github-readme-stats)
+
+</div>
+
+  
+  
 # Project Title
 
 A brief description of what this project does and who it's for
